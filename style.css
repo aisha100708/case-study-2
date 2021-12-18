@@ -26,3 +26,12 @@ body {
     font-size: 30px;
     color: rgb(2, 2, 114);
 }
+h1 {
+    text-decoration: underline navy;
+}
+span {
+    color: orangered;
+}
+h3 {
+    color: black;
+}
